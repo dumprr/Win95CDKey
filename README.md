@@ -1,4 +1,6 @@
 # Win95CDKey
+[CLICK HERE TO VIEW THE PAGE](https://muridono.github.io/Win95CDKey/)
+
 CD Key "genner" for Windows 95 
 
 Windows 95 CDKEY generator made in ~10 minutes in TurboWarp
@@ -11,4 +13,5 @@ Click on the dango when you open the project page and it will automatically run.
 
 # Credits
 I tested using the previously mentioned [key checker](https://github.com/MobCat/Windows-95-Product-Key-Check).
+
 I found the requirements of how the key SHOULD be using [this video](https://www.youtube.com/watch?v=cwyH59nACzQ)
