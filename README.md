@@ -1,5 +1,5 @@
 # Win95CDKey
-[CLICK HERE TO VIEW THE PAGE](https://muridono.github.io/Win95CDKey/)
+[CLICK HERE TO VIEW THE PAGE](https://dumprr.github.io/Win95CDKey/)
 
 CD Key "genner" for Windows 95 
 
